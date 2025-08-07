@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Sajib-bot",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
-    "",
-    "100000959749712"
+    "61553758080235",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61553758080235",
     ""
   ],
   "OWNER": ["100000959749712"], 
